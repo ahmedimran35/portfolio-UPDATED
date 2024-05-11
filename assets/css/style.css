@@ -341,6 +341,7 @@ header .navbar ul li a:hover {
     font-size: 2.2rem;
   }
 }
+
 /* hero media queries ends*/
 /* hero section end */
 
@@ -454,6 +455,10 @@ header .navbar ul li a:hover {
   .about .row .content .box-container {
     gap: 0;
   }
+}
+.home .image img
+{
+  margin-top: 6rem;
 }
 /* about media queries ends*/
 /* about section ends */
